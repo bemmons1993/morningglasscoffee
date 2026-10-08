@@ -1,0 +1,21 @@
+.hero-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-img {
+  max-height: 650px;
+  object-fit: cover;
+}
+
+.hero-logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.section-blue {
+  background-color: #29344b;
+  color: #ffffff;
+}
